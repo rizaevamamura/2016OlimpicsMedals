@@ -36,7 +36,7 @@ public class CountryByMedal extends TestBase {
         return list;
     }
 
-    //test the method
+    //this is the test the method
     @Test
     public void test(){
         for(String s:getCountryByMedal()){

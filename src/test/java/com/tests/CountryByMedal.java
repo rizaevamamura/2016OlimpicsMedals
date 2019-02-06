@@ -48,6 +48,6 @@ public class CountryByMedal extends TestBase {
     }
     @Test
     public void add(){
-        System.out.println("Not Hello");
+        System.out.println("Hello");
     }
 }
